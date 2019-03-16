@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Consumo de Combustível</string>
+    <string name="litros">Litros:</string>
+    <string name="quilometros">Quilômetros:</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="consumo">Consumo</string>
+    <string name="consumo_litros">10 km/l</string>
+</resources>
